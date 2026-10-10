@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/python-discovery/commit/4fe2ade736e5191de42ca3d4a0b8bf672ffc5652",
       "git:hexsha": "4fe2ade736e5191de42ca3d4a0b8bf672ffc5652",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.6.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.6.2",
+      "repolex:parsedAt": "2026-10-10T22:25:04.619904+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/python-discovery/commit/1696086e1f43efa9594dcaedc8b866483d4a9a71",
