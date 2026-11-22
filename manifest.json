@@ -181,6 +181,131 @@
       ],
       "ast": [
         "aggregate/ast/50d83545a3594ce1a5425d8ec33309bc37552707/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/50d83545a3594ce1a5425d8ec33309bc37552707.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "filelock",
+          "ecosystem": "PYPI",
+          "version": "3.15.4",
+          "githubOrg": "tox-dev",
+          "githubRepo": "filelock",
+          "githubCommit": "9a979dfe68fab75517c0612952ea401a232055a0",
+          "githubTag": "3.15.4",
+          "githubUrl": "https://github.com/tox-dev/filelock",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "platformdirs",
+          "ecosystem": "PYPI",
+          "version": "5",
+          "githubOrg": "tox-dev",
+          "githubRepo": "platformdirs",
+          "githubUrl": "https://github.com/tox-dev/platformdirs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2025.12.19",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubCommit": "dd9e9f920494f24b9b8dd954ec9d07e0b9d12817",
+          "githubTag": "2025.12.19",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "9.1",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinx-autodoc-typehints",
+          "ecosystem": "PYPI",
+          "version": "3.6.3",
+          "githubOrg": "tox-dev",
+          "githubRepo": "sphinx-autodoc-typehints",
+          "githubCommit": "c6f67683bfa17d4600258da6f925272da060bb79",
+          "githubTag": "3.6.3",
+          "githubUrl": "https://github.com/tox-dev/sphinx-autodoc-typehints",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sphinxcontrib-mermaid",
+          "ecosystem": "PYPI",
+          "version": "2",
+          "githubOrg": "mgaitan",
+          "githubRepo": "sphinxcontrib-mermaid",
+          "githubUrl": "https://github.com/mgaitan/sphinxcontrib-mermaid",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "covdefaults",
+          "ecosystem": "PYPI",
+          "version": "2.3",
+          "githubOrg": "asottile",
+          "githubRepo": "covdefaults",
+          "githubUrl": "https://github.com/asottile/covdefaults",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "coverage",
+          "ecosystem": "PYPI",
+          "version": "7.5.4",
+          "githubOrg": "coveragepy",
+          "githubRepo": "coveragepy",
+          "githubCommit": "22c09c67ff321835a79e00fa234086b216e3d8d0",
+          "githubTag": "7.5.4",
+          "githubUrl": "https://github.com/coveragepy/coveragepy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "8.3.5",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "b55ab2aabb68c0ce94c3903139b062d0c2790152",
+          "githubTag": "8.3.5",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-mock",
+          "ecosystem": "PYPI",
+          "version": "3.14",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-mock",
+          "githubUrl": "https://github.com/pytest-dev/pytest-mock",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "75.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
